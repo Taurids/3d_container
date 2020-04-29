@@ -8,7 +8,7 @@
 ## 课程大纲
 ### 🍬第一周
 1. Pytorch简介及环境配置
-2. Pytorch基础数据结构——张量
+2. [Pytorch基础数据结构——张量](https://github.com/Taurids/deepshare_Pytorch/blob/master/%E8%AF%BE%E4%BB%B6%E5%90%88%E9%9B%86/01-02-ppt-%E5%BC%A0%E9%87%8F%E7%AE%80%E4%BB%8B%E5%8F%8A%E5%88%9B%E5%BB%BA.pdf)
 3. 张量操作与线性回归
 4. 计算图与动态图机制
 5. autograd与逻辑回归
