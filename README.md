@@ -7,11 +7,11 @@
 
 ## 课程大纲
 ### 🍬第一周
-1. Pytorch简介及环境配置
-2. [Pytorch基础数据结构——张量](https://github.com/Taurids/deepshare_Pytorch/blob/master/%E8%AF%BE%E4%BB%B6%E5%90%88%E9%9B%86/01-02-ppt-%E5%BC%A0%E9%87%8F%E7%AE%80%E4%BB%8B%E5%8F%8A%E5%88%9B%E5%BB%BA.pdf)
-3. 张量操作与线性回归
-4. 计算图与动态图机制
-5. autograd与逻辑回归
+1. [Pytorch简介](https://github.com/Taurids/deepshare_Pytorch/blob/master/课件合集/01-01-pytorch简介与安装.pdf)及[环境配置](https://github.com/Taurids/deepshare_Pytorch/blob/master/课件合集/01-01-补充-ppt-pytorch开发环境安装.pdf)
+2. [Pytorch基础数据结构——张量](https://github.com/Taurids/deepshare_Pytorch/blob/master/课件合集/01-02-ppt-张量简介及创建.pdf)
+3. [张量操作与线性回归](https://github.com/Taurids/deepshare_Pytorch/blob/master/课件合集/01-03-ppt-张量的操作及线性回归.pdf)
+4. [计算图与动态图机制](https://github.com/Taurids/deepshare_Pytorch/blob/master/课件合集/01-04-ppt-计算图与动态图机制.pdf)
+5. [autograd与逻辑回归](https://github.com/Taurids/deepshare_Pytorch/blob/master/课件合集/01-05-ppt-autograd与逻辑回归.pdf)
 ### 🍚第二周
 1. 数据读取机制DataLoader与Dataset
 2. 数据预处理transforms模块机制
